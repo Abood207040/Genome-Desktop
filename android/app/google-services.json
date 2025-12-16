@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624619623676",
+    "project_id": "genome-fe61e",
+    "storage_bucket": "genome-fe61e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624619623676:android:78f1280728d882f41ef379",
+        "android_client_info": {
+          "package_name": "com.example.genome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHVZiCZnroYK4n7fTbT-XlBkdcBt4j0Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
