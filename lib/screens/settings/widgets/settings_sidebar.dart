@@ -21,7 +21,7 @@ class SettingsSidebar extends StatelessWidget {
 
     Navigator.pushNamedAndRemoveUntil(
       context,
-      "/login",
+      "/auth",
       (route) => false,
     );
   }

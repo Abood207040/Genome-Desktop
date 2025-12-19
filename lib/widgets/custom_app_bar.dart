@@ -133,7 +133,7 @@ class _CustomAppBarState extends State<CustomAppBar> {
 
     Navigator.pushNamedAndRemoveUntil(
       context,
-      "/login",
+      "/auth",
       (route) => false,
     );
   }
